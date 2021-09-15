@@ -8,6 +8,8 @@
 
 - [Beat Saber](https://beatsaber.com/)
 
+- [Scuffed Walls](https://github.com/thelightdesigner/ScuffedWalls)
+
 
 # How to use it
 1. Download [Script.js](./Script.js) to your map folder
