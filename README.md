@@ -1,3 +1,6 @@
+## Before you start
+### It is important to know javascript and to read the [Noodle Extension documentation](https://www.google.com/search?client=firefox-b-d&q=ducomentation)
+
 # How to use it
 1.Download Script.js to your map folder
 
