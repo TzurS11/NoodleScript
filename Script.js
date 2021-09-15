@@ -53,6 +53,6 @@ _environment.push(
 _environment.forEach(x => {
     console.log("ID: " + x._id + ", Method: " + x._lookupMethod);
 });
-//This swifter made not me
+//Thank you swifter
 
 fs.writeFileSync(OUTPUT, JSON.stringify(difficulty, null, 0));
