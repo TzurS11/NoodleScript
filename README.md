@@ -19,5 +19,6 @@
 # Example(s)
 
 <p align="center">
-  <img src="./Images/Example1.PNG" width="650">
+  <img src="./Images/Example1.PNG" width="400">
+  <img src="./Images/Example2.PNG" width="413">
 </p>
