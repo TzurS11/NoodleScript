@@ -49,10 +49,10 @@ _environment.push(
     }
 );
 
-
-_environment.forEach(x => {
-    console.log("ID: " + x._id + ", Method: " + x._lookupMethod);
-});
-//Thank you swifter
+//remove the // under this line to console all the evironment
+//_environment.forEach(x => {
+//    console.log("ID: " + x._id + ", Method: " + x._lookupMethod);
+//});
+//Thank you swifter!
 
 fs.writeFileSync(OUTPUT, JSON.stringify(difficulty, null, 0));
