@@ -53,9 +53,6 @@ _environment.push(
 _environment.forEach(x => {
     console.log("ID: " + x._id + ", Method: " + x._lookupMethod);
 });
-_obstacles.forEach(x => {
-    console.log("Wall:\n Beat: "+x._time+"\n Track:"+x._track);
-});
 //This swifter made not me
 
 fs.writeFileSync(OUTPUT, JSON.stringify(difficulty, null, 0));
