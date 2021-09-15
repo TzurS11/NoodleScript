@@ -2,9 +2,9 @@
  It is important to know javascript and to read the [Noodle Extension documentation](https://www.google.com/search?client=firefox-b-d&q=ducomentation).
 
 ### Useful tools:
-1.[Visual Studio Code](https://code.visualstudio.com/Download)
+1. [Visual Studio Code](https://code.visualstudio.com/Download)
 
-2.[Chrommaper](https://github.com/Caeden117/ChroMapper)
+2. [Chrommaper](https://github.com/Caeden117/ChroMapper)
 
 
 # How to use it
