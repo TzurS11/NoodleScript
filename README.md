@@ -8,7 +8,7 @@
 
 
 # How to use it
-1.Download Script.js to your map folder
+1.Download [Script.js](./Script.js) to your map folder
 
 2.Change the INPUT and OUTPUT difficulties
 
