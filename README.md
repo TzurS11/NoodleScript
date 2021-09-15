@@ -7,7 +7,7 @@
 
 4.Run the script through Node.js
 
-# Examples
+# Example(s)
 
 <p align="center">
   <img src="./Images/Example1.PNG" width="650">
