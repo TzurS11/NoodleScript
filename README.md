@@ -9,4 +9,6 @@
 
 # Examples
 
-![Example](https://raw.githubusercontent.com/TzurS11/NoodleScript/main/Images/Example1.PNG)
+<p align="center">
+  <img src="./Images/Example1.PNG" width="650">
+</p>
