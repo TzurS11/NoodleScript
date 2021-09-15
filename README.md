@@ -6,6 +6,8 @@
 
 2. [Chrommaper](https://github.com/Caeden117/ChroMapper)
 
+3. [Beat Saber](https://beatsaber.com/)
+
 
 # How to use it
 1.Download [Script.js](./Script.js) to your map folder
