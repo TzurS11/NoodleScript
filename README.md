@@ -4,7 +4,7 @@
 ### Useful tools:
 - [Visual Studio Code](https://code.visualstudio.com/Download)
 
-- [Chrommaper](https://github.com/Caeden117/ChroMapper)
+- [Chromapper](https://github.com/Caeden117/ChroMapper)
 
 - [Beat Saber](https://beatsaber.com/)
 
