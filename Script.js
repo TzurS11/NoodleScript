@@ -14,7 +14,40 @@ const _pointDefinitions = _customData._pointDefinitions;
 const _environment = _customData._environment;
 
 
+
 //your code here....
+
+
+//Template for Environment, Wall,(more in the future):
+
+//wall:
+_obstacles.push(
+    {
+        "_time": Beat,
+        "_lineIndex": 0,
+        "_type": 1,
+        "_duration": When animating in custom data,
+        "_width": 0,
+        "_customData": {
+            "_track": ["yourTrack1","yourTrack2"..... you can make one or more tracks],
+            "_scale": [x, y, z],
+            "_position": [x, y, z],
+            "_rotation":[x, y, z]
+            //more customData here
+        }
+    }
+);
+//Environment:
+_environment.push(
+    {
+        "_id": "Find in Chroma logs",
+        "_lookupMethod": "Regex, Exact, Contains",
+        "_scale": [x, y, z],
+        "_position": [x, y, z],
+        "_rotation":[x, y, z]
+        //more customData here
+    }
+);
 
 
 _environment.forEach(x => {
