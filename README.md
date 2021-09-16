@@ -41,3 +41,9 @@ function Random(min, max) {
   
   var randomNum = Random(3,19) //gives a random number between 3 to 19
 ```
+### Log Environment Enhancement
+```js
+_environment.forEach(x => {
+    console.log("ID: " + x._id + ", Method: " + x._lookupMethod);
+});
+```
