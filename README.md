@@ -35,7 +35,7 @@
 ### Random Number
 ```js
 function Random(min, max) {
-    max=max+1
+    max++;
     return Math.random() * (max - min) + min;
   }  
   
