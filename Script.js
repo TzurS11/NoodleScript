@@ -33,7 +33,7 @@ const _environment = _customData._environment;
 //            "_scale": [x, y, z],
 //            "_position": [x, y, z],
 //            "_rotation":[x, y, z]
-//            //more customData here
+//            more customData here
 //        }
 //    }
 //);
@@ -45,9 +45,10 @@ const _environment = _customData._environment;
 //        "_id": "Find in Chroma logs",
 //        "_lookupMethod": "Regex, Exact, Contains",
 //        "_scale": [x, y, z],
-//       "_position": [x, y, z],
+//        "_position": [x, y, z],
 //        "_rotation":[x, y, z]
-//        //more customData here
+//        "_track":["yourTrack1"] when you want to animate the environment
+//        more customData here
 //    }
 //);
 
@@ -55,12 +56,13 @@ const _environment = _customData._environment;
 //custom event:
 //_customEvents.push(
 //    {
-//        "_time" : 66,
+//        "_time" : Beat,
 //      "_type" : "AnimateTrack",
 //        "_data" : {
-//          "_rotation" : [[0,0,0,0],[0,50000,0,1]],
-//          "_duration" : 100,
-//          "_track" : "beginingwall"
+//          "_track" : "yourTrack",
+//          "_duration" : in beats,
+//          "_rotation" : [[x,y,z,t],[x,y,z,t]],
+//          more customData here
 //        }
 //    }
 //);
