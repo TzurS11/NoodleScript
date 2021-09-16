@@ -35,7 +35,8 @@
 ### Random Number
 ```js
 function Random(min, max) {
-    return Math.random() * (max - min) + min + 1;
+    max=max+1
+    return Math.random() * (max - min) + min;
   }  
   
   var randomNum = Random(3,19) //gives a random number between 3 to 19
