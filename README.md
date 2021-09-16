@@ -27,3 +27,16 @@
   <img src="./Images/Example2.PNG" width="414">
   <img src="./Images/Example3.PNG" width="430">
 </p>
+
+
+# Useful functions
+
+
+### Random Number
+```js
+function Random(min, max) {
+    return Math.random() * (max - min) + min + 1;
+  }  
+  
+  var randomNum = Random(3,19) //gives a random number between 3 to 19
+```
