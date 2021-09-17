@@ -76,6 +76,7 @@ _customEvents.forEach(x => {
 - To make it function the best and to preven errors put it under line 14
 - can fuck up timing
 ```js
+var halfJumpDuration = yourMapHalfJumpDuration;//you can get it from chromapper. you might wanna put at the begining of your script 
 function Duration(dura){
 return (dura/2) - halfJumpDuration;
 };
