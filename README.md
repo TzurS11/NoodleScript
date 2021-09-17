@@ -10,7 +10,7 @@
 
 - [Scuffed Walls](https://github.com/thelightdesigner/ScuffedWalls)
 
-    [important shit when using sw](https://github.com/TzurS11/NoodleScript/blob/main/Script.js#L4-L6)
+    [important shit when using sw](https://github.com/TzurS11/NoodleScript/blob/main/Script.js#L4-L7)
 
 
 # How to use it
