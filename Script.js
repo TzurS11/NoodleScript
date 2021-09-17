@@ -1,6 +1,9 @@
 const fs = require("fs");
 const INPUT = "YourInputDifficulty.dat";
 const OUTPUT = "YourOutputDifficulty.dat";
+//when importing the script to scuffed walls you might get an error so one fix is to put the full path of the difficulty. Example:
+//const INPUT = "D:/Steam/steamapps/common/Beat Saber/Beat Saber_Data/CustomWIPLevels/Reassurance/ExpertPlusStandard.dat";
+//const OUTPUT = "D:/Steam/steamapps/common/Beat Saber/Beat Saber_Data/CustomWIPLevels/Reassurance/ExpertPlusStandard.dat";
 let difficulty = JSON.parse(fs.readFileSync(INPUT));
 
 
