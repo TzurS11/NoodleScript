@@ -22,13 +22,7 @@
 
 4. Run the script through Node.js
 
-# Example(s)
 
-<p align="center">
-  <img src="./Images/Example1.PNG" width="400">
-  <img src="./Images/Example2.PNG" width="414">
-  <img src="./Images/Example3.PNG" width="430">
-</p>
 
 
 # Useful functions
@@ -90,3 +84,13 @@ return (dura/2) - halfJumpDuration;
 ```
 Credit: Thelightdesigner
 
+# Example
+### Scuffed Walls\script examples
+[totally balloon](https://github.com/Infinit3/le-monke-maps) (Scuffed Walls)
+
+### pictures(only done with scripting)
+<p align="center">
+  <img src="./Images/Example1.PNG" width="400">
+  <img src="./Images/Example2.PNG" width="414">
+  <img src="./Images/Example3.PNG" width="430">
+</p>
