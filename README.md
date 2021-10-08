@@ -28,7 +28,7 @@
 # Useful functions
 
 
-## Random Number
+### Random Number
 - To make it function the best and to preven errors put it under line 14
 ```js
 function Random(min, max) {
@@ -38,7 +38,7 @@ function Random(min, max) {
   
   var randomNum = Random(3,19) //gives a random number between 3 to 19
 ```
-## Log Environment Enhancement
+### Log Environment Enhancement
 - To make it function the best put it above the output line(which means you put it just beforet the end of the script)
 ```js
 _environment.forEach(x => {
@@ -46,7 +46,7 @@ _environment.forEach(x => {
 });
 ```
 Credit: swifter
-## toBeat(works only on custom events)
+### toBeat(works only on custom events)
 - when not using toBeat the default value is false
 - To make it function the best put it above the output line(which means you put it just before the end of the script)
 - toBeat(bool) doesn't start with an _ and you should put it after _data
@@ -70,7 +70,7 @@ _customEvents.forEach(x => {
 //makes the duration 15
 
 ```
-## Note duration
+### Note duration
 - To make it function the best and to preven errors put it under line 14
 - can fuck up timing
 ```js
@@ -84,16 +84,25 @@ return (dura/2) - halfJumpDuration;
 ```
 Credit: Thelightdesigner
 
-# Example
+# Examples
 ### Scuffed Walls\script examples
 [totally balloon](https://github.com/Infinit3/le-monke-maps) (Scuffed Walls)
-
+<br/><br/>
 ### Pictures(only done with scripting)
 <p align="center">
   <img src="./Images/Example1.PNG" width="400">
   <img src="./Images/Example2.PNG" width="414">
   <img src="./Images/Example3.PNG" width="430">
 </p>
+<br/><br/>
 
-### Fonts(TextToWall)
-[`font1.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font1.dae)
+### Fonts([TextToWall](https://github.com/thelightdesigner/ScuffedWalls/blob/main/TextToWall.md))
+[`font1.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font1.dae) - [`font2.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font2.dae) - [`font3.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font3.dae)
+
+
+
+If you use my fonts you don't have to but it would be appreciated if you give me credit.
+<br/><br/>
+#
+<br/><br/>
+<h3><strong>Got any questions? Discord: TzurS11#1111</strong></h3>
