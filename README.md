@@ -101,7 +101,7 @@ Credit: Thelightdesigner
 
 
 
-If you use my fonts you don't have to but it would be appreciated if you give me credit.
+If you use my fonts you don't have to but it would be appreciated if you give me credit or just feedback on discord.
 <br/><br/>
 #
 <br/><br/>
