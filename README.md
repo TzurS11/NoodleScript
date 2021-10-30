@@ -1,5 +1,5 @@
 ## Before you start
- It is important to know javascript and to read the [Noodle Extension documentation](https://www.google.com/search?client=firefox-b-d&q=ducomentation).
+ It is important to know javascript and to read the [Noodle Extension documentation](https://github.com/Aeroluna/Heck/wiki).
 
 ### Useful tools(you might wanna use them)
 - [Visual Studio Code](https://code.visualstudio.com/Download)
