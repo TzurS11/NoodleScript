@@ -69,7 +69,6 @@ _customEvents.push(
           more customData here
         }
     }
-);
-*/
+);*/
 
 fs.writeFileSync(OUTPUT, JSON.stringify(difficulty, null, 0));
