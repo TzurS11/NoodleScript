@@ -19,57 +19,57 @@ const _environment = _customData._environment;
 
 
 
-//your code here....
+/*your code here....
 
 
-//Template for Environment enhancement, Wall, Custom event:
+Template for Environment enhancement, Wall, Custom event:
 
-//wall:
-//_obstacles.push(
-//    {
-//        "_time": Beat,
-//        "_lineIndex": 0,
-//        "_type": 1,
-//        "_duration": When animating in custom data,
-//        "_width": 0,
-//        "_customData": {
-//            "_track": ["yourTrack1","yourTrack2"..... you can make one or more tracks],
-//            "_scale": [x, y, z],
-//            "_position": [x, y, z],
-//            "_rotation":[x, y, z]
-//            more customData here
-//        }
-//    }
-//);
-
-
-//Environment:
-//_environment.push(
-//    {
-//        "_id": "Find in Chroma logs",
-//        "_lookupMethod": "Regex, Exact, Contains",
-//        "_scale": [x, y, z],
-//        "_position": [x, y, z],
-//        "_rotation":[x, y, z]
-//        "_track":["yourTrack1"] when you want to animate the environment
-//        more customData here
-//    }
-//);
+wall:
+_obstacles.push(
+    {
+        "_time": Beat,
+        "_lineIndex": 0,
+        "_type": 1,
+        "_duration": When animating in custom data,
+        "_width": 0,
+        "_customData": {
+            "_track": ["yourTrack1","yourTrack2"..... you can make one or more tracks],
+            "_scale": [x, y, z],
+            "_position": [x, y, z],
+            "_rotation":[x, y, z]
+            more customData here
+        }
+    }
+);
 
 
-//custom event:
-//_customEvents.push(
-//    {
-//        "_time" : Beat,
-//      "_type" : "AnimateTrack",
-//        "_data" : {
-//          "_track" : "yourTrack",
-//          "_duration" : in beats,
-//          "_rotation" : [[x,y,z,t],[x,y,z,t]],
-//          more customData here
-//        }
-//    }
-//);
+Environment:
+_environment.push(
+    {
+        "_id": "Find in Chroma logs",
+        "_lookupMethod": "Regex, Exact, Contains",
+        "_scale": [x, y, z],
+        "_position": [x, y, z],
+        "_rotation":[x, y, z]
+        "_track":["yourTrack1"] when you want to animate the environment
+        more customData here
+    }
+);
 
+
+custom event:
+_customEvents.push(
+    {
+        "_time" : Beat,
+      "_type" : "AnimateTrack",
+        "_data" : {
+          "_track" : "yourTrack",
+          "_duration" : in beats,
+          "_rotation" : [[x,y,z,t],[x,y,z,t]],
+          more customData here
+        }
+    }
+);
+*/
 
 fs.writeFileSync(OUTPUT, JSON.stringify(difficulty, null, 0));
