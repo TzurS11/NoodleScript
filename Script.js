@@ -1,10 +1,10 @@
 const fs = require("fs");
 const INPUT = "YourInputDifficulty.dat";
 const OUTPUT = "YourOutputDifficulty.dat";
-//if you are using the run function in scuffed walls and the ScuffedWalls.exe is not in the map folder then you need 
-//to put the full path to prevent errors. Example:
-//const INPUT = "D:/Steam/steamapps/common/Beat Saber/Beat Saber_Data/CustomWIPLevels/Reassurance/ExpertPlusStandard.dat";
-//const OUTPUT = "D:/Steam/steamapps/common/Beat Saber/Beat Saber_Data/CustomWIPLevels/Reassurance/ExpertPlusStandard.dat";
+/*if you are using the run function in scuffed walls and the ScuffedWalls.exe is not in the map folder then you need 
+to put the full path to prevent errors. Example:
+const INPUT = "D:/Steam/steamapps/common/Beat Saber/Beat Saber_Data/CustomWIPLevels/Reassurance/ExpertPlusStandard.dat";
+const OUTPUT = "D:/Steam/steamapps/common/Beat Saber/Beat Saber_Data/CustomWIPLevels/Reassurance/ExpertPlusStandard.dat";*/
 let difficulty = JSON.parse(fs.readFileSync(INPUT));
 
 
