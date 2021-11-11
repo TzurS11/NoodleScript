@@ -66,9 +66,12 @@ Credit: Thelightdesigner
 
 # Examples
 ### Scuffed Walls\script examples
+[`Reassurance`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Scripts/Reassurace.js) - [`Drown`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Scripts/Drown.js)
+
 [totally balloon](https://github.com/Infinit3/le-monke-maps) (Scuffed Walls)
 
 [Swifter](https://github.com/Swifter1243/BlenderToEnvironment) (Blender to environment)
+
 <br/><br/>
 ### Pictures(only done with scripting)
 <p align="center">
