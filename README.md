@@ -27,7 +27,7 @@
 
 
 ### Random Number
-- To make it function the best and to preven errors put it under line 14
+- To make it function the best and to preven errors put it at the begining of the script
 ```js
 function Random(min, max, round) {
     max++;
@@ -49,30 +49,7 @@ _environment.forEach(x => {
 });
 ```
 Credit: swifter
-### toBeat(works only on custom events)
-- when not using toBeat the default value is false
-- To make it function the best put it above the output line(which means you put it just before the end of the script)
-- toBeat(bool) doesn't start with an _ and you should put it after _data
-- After adding toBeat it will delete it from the customData after running the script
 
-```js
-_customEvents.forEach(x => {
-    if (x._data.toBeat != undefined) {
-        if (x._data.toBeat == true) {
-            x._data._duration = x._data._duration - x._time;
-            delete x._data.toBeat;
-        } else
-            delete x._data.toBeat;
-    }
-});
-
-//example:
-//_time: 10
-//_duration: 25
-//toBeat: true
-//makes the duration 15
-
-```
 ### Note duration
 - To make it function the best and to preven errors put it under line 14
 - can fuck up timing
