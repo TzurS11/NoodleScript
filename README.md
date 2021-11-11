@@ -29,12 +29,17 @@
 ### Random Number
 - To make it function the best and to preven errors put it under line 14
 ```js
-function Random(min, max) {
+function Random(min, max, round) {
     max++;
-    return Math.random() * (max - min) + min;
-  }  
-  
-  var randomNum = Random(3,19) //gives a random number between 3 to 19
+    if (round == false || round == undefined) {
+        return Math.random() * (max - min) + min;
+    } else
+    if (round == true) {
+        return Math.round(Math.random() * (max - min) + min);
+    }
+}
+
+let randomNum = Random(3, 19,/*round(true,undefined/false(defaut))*/); //gives a random number between 3 to 19
 ```
 ### Log Environment Enhancement
 - To make it function the best put it above the output line(which means you put it just beforet the end of the script)
