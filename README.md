@@ -72,22 +72,12 @@ Credit: Thelightdesigner
 
 [Swifter](https://github.com/Swifter1243/BlenderToEnvironment) (Blender to environment)
 
-<br/><br/>
-### Pictures(only done with scripting)
-<p align="center">
-  <img src="./Images/Example1.PNG" width="400">
-  <img src="./Images/Example2.PNG" width="414">
-  <img src="./Images/Example3.PNG" width="430">
-</p>
-<br/><br/>
-
 ### Fonts([TextToWall](https://github.com/thelightdesigner/ScuffedWalls/blob/main/TextToWall.md))
 [`font1.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font1.dae) - [`font2.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font2.dae) - [`font3.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font3.dae)
 
-
-
 If you use my fonts you don't have to but it would be appreciated if you give me credit or just give some feedback on discord.
-<br/><br/>
-#
+
+
+</p>
 <br/><br/>
 <h3><strong>Got any questions? Discord: TzurS11#1111</strong></h3>
