@@ -27,7 +27,7 @@
 
 
 ### Random Number
-- To make it function the best and to preven errors put it at the begining of the script
+- To make it function the best and to prevent errors put it at the begining of the script
 ```js
 function Random(min, max, round) {
     max++;
@@ -51,7 +51,7 @@ _environment.forEach(x => {
 Credit: swifter
 
 ### Note duration
-- To make it function the best and to preven errors put it under line 14
+- To make it function the best and to prevent errors put it under line 14
 - can fuck up timing
 ```js
 var halfJumpDuration = yourMapHalfJumpDuration;//you can get it from chromapper. you might wanna put at the begining of your script 
