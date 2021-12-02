@@ -50,8 +50,8 @@ _environment.push(
         "_lookupMethod": "Regex, Exact, Contains",
         "_scale": [x, y, z],
         "_position": [x, y, z],
-        "_rotation":[x, y, z]
-        "_track":["yourTrack1"] when you want to animate the environment
+        "_rotation": [x, y, z]
+        "_track": "yourTrack1" when you want to animate the environment
         more customData here
     }
 );
