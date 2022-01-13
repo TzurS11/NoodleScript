@@ -1,5 +1,6 @@
 ## Before you start
- It is important to know javascript and to read the [Noodle Extension documentation](https://github.com/Aeroluna/Heck/wiki).
+ - It is important to know javascript and to read the [Noodle Extension documentation](https://github.com/Aeroluna/Heck/wiki).
+ - If you are using one of my scripts from [here](https://github.com/TzurS11/NoodleScript/tree/main/Examples/Scripts) then please! even though I'm not forcing it give me credit. I'm working my ass of these maps and wasting so much time on them. A little credit in the map's description would be amazing and will make my day :pray:
 
 ### Useful tools(you might wanna use them)
 - [Visual Studio Code](https://code.visualstudio.com/Download)
