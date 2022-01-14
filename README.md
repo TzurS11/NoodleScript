@@ -1,6 +1,5 @@
 ## Before you start
  - It is important to know javascript and to read the [Noodle Extension documentation](https://github.com/Aeroluna/Heck/wiki).
- - If you are using one of my scripts from [here](https://github.com/TzurS11/NoodleScript/tree/main/Examples/Scripts) then please! even though I'm not forcing it give me credit. I'm working my ass of these maps and wasting so much time on them. A little credit in the map's description would be amazing and will make my day :pray:
 
 ### Useful tools(you might wanna use them)
 - [Visual Studio Code](https://code.visualstudio.com/Download)
@@ -71,6 +70,6 @@ Credit: Thelightdesigner
 ### Fonts([TextToWall](https://github.com/thelightdesigner/ScuffedWalls/blob/main/TextToWall.md))
 [`font1.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font1.dae) - [`font2.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font2.dae) - [`font3.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font3.dae)
 
-If you use my fonts you don't have to but it would be appreciated if you give me credit or just give some feedback on discord.
+My fonts are not under the Apache 2.0 license but if you use my fonts you don't have to but it would be appreciated if you give me credit or just give some feedback on discord :pray:
 <br/><br/>
 <h3><strong>Got any questions? Discord: TzurS11#1111</strong></h3>
