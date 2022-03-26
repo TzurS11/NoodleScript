@@ -60,16 +60,13 @@ return (dura/2) - halfJumpDuration;
 Credit: Thelightdesigner
 
 # Examples
-### Scuffed Walls\script examples
-[`Reassurance`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Scripts/Reassurace.js) - [`Drown`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Scripts/Drown.js)
-<br/><br/>
-[totally balloon](https://github.com/Infinit3/le-monke-maps) (Scuffed Walls)
-
-[Swifter](https://github.com/Swifter1243/BlenderToEnvironment) (Blender to environment)
-<br/><br/>
+### My maps:
+[`Reassurance`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Scripts/Reassurace.js) - [`Drown`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Scripts/Drown.js) - [`La Lune`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Scripts/La_Lune.js) - [`Neverless`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Scripts/Neverless.js) - [`Butterflies`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Scripts/Butterflies.js)
+### Other sources:
+[`totally balloon`](https://github.com/Infinit3/le-monke-maps) - [`Swifter's ReMapper`](https://github.com/Swifter1243/ReMapper)
 ### Fonts([TextToWall](https://github.com/thelightdesigner/ScuffedWalls/blob/main/TextToWall.md))
 [`font1.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font1.dae) - [`font2.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font2.dae) - [`font3.dae`](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Fonts/font3.dae)
 
-My fonts are not under the Apache 2.0 license but if you use my fonts you don't have to but it would be appreciated if you give me credit or just give some feedback on discord :pray:
+My fonts are not falling under the Apache 2.0 license but if you use my fonts you don't have to but it would be appreciated if you give me credit or just give some feedback on discord :pray:
 <br/><br/>
 <h3><strong>Got any questions? Discord: TzurS11#1111</strong></h3>
