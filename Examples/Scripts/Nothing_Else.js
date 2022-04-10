@@ -8,7 +8,7 @@ const {
   Difficulty,
   WALL,
   rotatePoint,
-} = require("swifter_remapper");
+} = require("swifter_remapper");//no i did not use remapper i dont know why i installed it even :/
 const three = require("three");
 const INPUT = "ExpertPlusStandard.dat";
 const OUTPUT = "ExpertPlusStandard.dat";
