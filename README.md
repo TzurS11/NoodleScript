@@ -30,8 +30,8 @@
 - To make it function the best and to prevent errors put it at the begining of the script
 ```js
 function Random(min, max, round) {
-  if (round == false || round == undefined) return Number((Math.random() * (max + 1 - min) + min).toFixed(3));
-  if (round == true) return Math.round(Math.random() * (max + 1 - min) + min);
+  if (round == false || round == undefined) return Number((Math.random() * (max - min) + min).toFixed(3));
+  if (round == true) return Math.round(Math.random() * (max - min) + min);
 }
 
 let randomNum = Random(3, 19,/*round(true,undefined/false(defaut))*/); //gives a random number between 3 to 19
