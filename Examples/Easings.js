@@ -1,7 +1,9 @@
-/*p1 = 200 - Start position
-p2 = 300 - End position
-t = 0 - Time
-d = 1 - Duration*/
+/*
+p1 = 200 - Start position |lerping between two 
+p2 = 300 - End position   |of the numbers (p1, p2).
+t = 0 - Time, just like time in noodle extensions this goes from 0 to 1.
+d = 1 - Duration, probably the duration of the object(animatetrack, wall, note ect...)
+*/
 
 
 //Linear
