@@ -26,8 +26,7 @@
 # Useful functions
 
 
-### Random Number
-- To make it function the best and to prevent errors put it at the begining of the script
+### Random Number generator
 ```js
 function Random(min, max, round) {
   if (round == false || round == undefined) return Number((Math.random() * (max - min) + min).toFixed(3));
@@ -36,28 +35,11 @@ function Random(min, max, round) {
 
 let randomNum = Random(3, 19,/*round(true,undefined/false(defaut))*/); //gives a random number between 3 to 19
 ```
-### Log Environment Enhancement
-- To make it function the best put it above the output line(which means you put it just beforet the end of the script)
-```js
-_environment.forEach(x => {
-    console.log("ID: " + x._id + ", Method: " + x._lookupMethod);
-});
-```
-Credit: swifter
 
-### Note duration
-- To make it function the best and to prevent errors put it under line 14
-- can fuck up timing
-```js
-var halfJumpDuration = yourMapHalfJumpDuration;//you can get it from chromapper. you might wanna put at the begining of your script 
-function Duration(dura){
-return (dura/2) - halfJumpDuration;
-};
+### Lerp functions
+Most of the easing functions can be found **[here](https://github.com/TzurS11/NoodleScript/blob/main/Examples/Easings.js)**.  
+Go to **[easings.net](https://easings.net/)** to find more easings
 
-//example:
-//_noteJumpStartBeatOffset: Duration(20);
-```
-Credit: Thelightdesigner
 
 # Examples
 ### My maps:
