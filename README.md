@@ -1,3 +1,5 @@
+![](https://github.com/TzurS11/NoodleScript/blob/main/Images/unknown.png)
+
 ## Before you start
  - It is important to know javascript and to read the [Noodle Extension documentation](https://github.com/Aeroluna/Heck/wiki).
 
